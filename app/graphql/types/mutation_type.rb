@@ -1,4 +1,7 @@
+# frozen_string_literal: true
+
 module Types
+  # This is the base mutation type. All mutations inherit from it.
   class MutationType < Types::BaseObject
     # TODO: remove me
     field :test_field, String, null: false,
