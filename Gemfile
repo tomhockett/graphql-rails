@@ -7,7 +7,7 @@ gem 'bcrypt', '~> 3.1.7'
 gem 'bootsnap', '>= 1.4.2', require: false
 gem 'graphql', '1.8.13'
 gem 'jbuilder', '~> 2.5'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 3.12'
 gem 'rails', '~> 6.0.0.rc1'
 gem 'sass-rails', '~> 5'
 gem 'sqlite3', '~> 1.4'
